@@ -1,28 +1,28 @@
 Discovery
-    Network
-        Nmap
-        Zmap
-    Web
-        GitRob
+ Network
+  Nmap
+  Zmap
+ Web
+  GitRob
 Enumeration
-    Web
-        Subbrute
+ Web
+  Subbrute
 OSINT
-    Maltego
-    Recon-ng
+ Maltego
+ Recon-ng
 MiTM
-    Bettercap
-    Responder
-    Evilgrade
+ Bettercap
+ Responder
+ Evilgrade
 Exploitation
-    Network
-        Metasploit
-    Web
-        SQL-Map
+ Network
+  Metasploit
+ Web
+  SQL-Map
 Distributions
-    Kali
+ Kali
 Miscellaneous
-    no-more-secrets
-    security_list
+ no-more-secrets
+ security_list
 Risk Management
-    Vsaq
+ Vsaq
